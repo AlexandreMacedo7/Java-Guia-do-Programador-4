@@ -1,0 +1,4 @@
+1 - Criação de um programa-fonte com extensão .java, por meio de um editor.
+2 - O compilador javac transforma os arquivos do programa-fonte em bytecode
+salvo em arquivo de classe com extensão .class.
+3 - JVM interpreta o bytecode para código nativo do sistema.
