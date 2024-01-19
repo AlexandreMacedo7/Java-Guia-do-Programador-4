@@ -1,0 +1,2 @@
+JavaRE - Java Runtime Environment - Ambiente mínimo para execução de uma aplicação java.
+JavaSE - Ambiente mínimo para construção de uma aplicação - contém JDK e o próprio JavaRE. 
