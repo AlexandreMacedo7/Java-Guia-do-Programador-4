@@ -1,0 +1,2 @@
+JVM é a maquina virtual do Java, responsável par interpretar o bytecode gerado pelo
+compilador javac, para a plataforma nativa, para isso, faz uso do JIT - (Just In Time).
