@@ -1,0 +1,14 @@
+Principais Versões:
+
+Versão 1.0
+Primeira versão do Java.
+
+Versão 8 (1.8)
+Expressões lambda, referências para métodos, métodos default em interfaces,
+operações em massa nas coleções, nova API Date-Time, paralelização de operações.
+
+Versão 11
+Variáveis locais para lambdas, remoção das applets.
+
+Versão 16
+Melhorias no instanceof, registros, classes seladas (preview), nova ferramenta JPackage.
