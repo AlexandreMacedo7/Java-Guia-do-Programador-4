@@ -1,0 +1,2 @@
+PATH - Listar diretórios onde o sistema basca programas ou comandos para execução.
+CLASSPATH - Utilizado pelo java para localizar classes e pacotes.
