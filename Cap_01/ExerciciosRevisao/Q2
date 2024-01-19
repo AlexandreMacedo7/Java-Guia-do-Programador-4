@@ -1,0 +1,2 @@
+Programas javas não são compilados por um Hardware específico, mas sim pela JVM,
+que utiliza bytecodes, que por sua vez são interpretados para a plataforma nativa.
